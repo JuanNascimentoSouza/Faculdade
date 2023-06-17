@@ -1,0 +1,13 @@
+
+Sistema Operacional é o principal software de sistema do computador, ele conhece o hardware do computador para que os programas que rodam no computador não precisem conhecelos, ele funciona como uma camada de abstração para execução de programas que nele serão rodados
+
+Por exemplo se um programa precisar enviar pacotes para internet ele não precisa saber qual a placa de rede do computador, mas o Sistema Operacional sim
+
+A segunda função do Sistema Operacional é alocar espaço em mémoria principal para os programas e seus dados, a memória principal tem que ser carregada com os programas para serem executados no computador, dessa forma, o Sistema Operacional fica responsavel que haja espaço para o programa ser carregado e executado
+
+A terceira função do Sistema Operacional é dar acesso ao Processador para diversos processos ou programas que querem acessalo, os computadores hoje em dia rodam diversos programas simultâneamente e todos querem ter acesso ao processador pois é a única forma de executar suas instruções, o Sistema Operacional é responsavel por determinaro acesso ao Processador por cada um desses processos
+
+A quarta função do Sistema Operacional é o escalonador que é responsavel por temporizar e determinar que um processo deve abandonar o Processador, para ceder a sua vez para um próximo processo que está na fila do Processador
+
+Atenção!
+O sistema operacional ainda é um programa. Portanto, sua execução depende desse carregamento em memória.

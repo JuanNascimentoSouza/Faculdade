@@ -1,0 +1,6 @@
+
+Os Processadores são processados com a capacidade de realizar diretamente no hardware pequenas e primitivas operações como por exemplo executar operações aritiméticas, mover um número de um lugar para o outro, mover um dado de um dispositivo de entrada ou de saída e desviar a sequência de controle.
+
+Linguágem de alto nível viram instruções de máquina
+
+Os processadores interpretam o que fazer e executam essa operação, cada operação é identificada e definida por um conjunto de bits denominada instrução de máquina e a sequência básica de execução é chamada Ciclo de Instrução

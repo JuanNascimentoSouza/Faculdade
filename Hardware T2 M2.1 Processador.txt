@@ -1,0 +1,16 @@
+
+Processador é um componente necessário para a leitura dos dados(read) e gravação desses dados(write) esse dado gravado pode ser usado por uma aplicação para oferecer ao usuário o resultado que deseja.
+
+O Processador faz parte dos três grandes módulos computacionais formado por Processador, Memória e Dispositivos de Entrada e Saida. 
+
+O Processador é dividido em Área de Controle e Área de Processamento, a Área de Controle possui a unidade de controle responável por controlar os dados que saem e entram no computador, existe um componente chamado decodificador de instrução, uma vez que o dado é lido do Processador na memória esse dado vem em bits ou grupos de bits que tem um significado e cabe ao decodificador de instrução entender o que significa para o Processador saber o que precisa ser feito
+
+Existe um componente chamado Clock responsavel por sincronizar e os dados e cadenciar(colocar em ordem temporal) existe um registrador chamado Registrador de Instrução ou RI é aquele registrador responsavel por armazenar a instrução a ser executada, existe um registrador conhecido como Contador de Instrução ou CI que armazena o endereço da próxima instrução de mémoria que é buscada pelo Processador na memória principal
+
+Existem outros dois registradores o REM e o RDM, o REM é o Registrador de Endereço de Memória que conecta em uma porta de saída do processador para o barramento de endereço, o RDM é o registrador de dados de memória, é uma porta de saída do processador para o barramento de dados
+
+A área de processamento é constituida pelos Registradores de Dados, são aqueles registradores que vão gravar os dados a ser usados pela unidade lógica e aritimética, a ULA(Unidade Lógica e Aritimética) realiza funções lógica e aritimética, existem também alguns registradores especiais de status chamados PSW que detectam anomalias ou instruções inválidas e evita que o computador trabalhe erroneamente 
+
+O Processador é constituído por outros elementos e esses são os elementos básicos, existem registradores especiais e áreas especiais para as diferentes finalidades
+
+Um Processador não é só constituído de velocidade, o que torna um processador bom ou ruim por uma análise mais simplista é também a otimização das intruções dadas a determinadas aplicações, o Processador executa funções primitivas e muito simples ou seja o Processador não tem conhecimento das aplicações em execução pelo usuário, apenas processa instruções que chegam a ele, ou seja um Processador pode ter um Clock mais baixo mas ser melhor para uma determinada função.

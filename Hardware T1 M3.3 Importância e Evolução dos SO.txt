@@ -1,0 +1,12 @@
+ 
+O SO é um software de sistema (o mais importante)
+
+Os computadores originalmente foram planejados para executar um programa, mas com sua evolução ficou claro que poderiam ser executados vários programas simultâneamente e em paralelo, uma das funções do Sistema Operacional é garantir o bom funcionamento desses vários programas, o acesso ao Processador, para o programa outra vez passar esse processo a outro programa e assim sucessivamente
+
+O Sistema Operacional é o responsavel por gerenciar a memória do computador alocando esse recurso para os demais programas que vão utilizala
+
+O Sitema Operacional também tem a função de garantir que todos os programas tenham como acessar os hardwares, os programas não sabem quais hardwares existem em um computador qualquer específico e por isso o Sistema Operacional tem esse papel de guiar cada programa para o seu destino, o programa pede acesso ao Sistema Operacional para acessar os hardwares e o Sitema Operacional designa a entrada correta para o programa acessar o(s) hardwares(s) desejados, por exemplo: câmera, placade rede, placa de vídeo
+
+O Sistema Operacional é o primeiro Software executado no computador, e da abertura a hardwares do computador para programas, também determina quais programas vão acessar o computador e em que ordem, gerenciamento de memória
+
+Os primeiros Sistemas Operacionais eram mais simples, tinham apenas Interface de Terminal no Console, hoje em dia temos Sistemas Operacionais parecidos baseados em, Linux, Windows e MAC OS, os Sistemas Operacionais foram colocados dentro de telefones, como IOS(Apple) e Android(Google) a Microsoft começou a trabalhar com Sistemas Operacionais Windows para Mobile mas desistiu da competição

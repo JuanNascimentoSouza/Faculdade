@@ -1,0 +1,5 @@
+O Sistema de Computação é um conjunto de Hardware, Software e a Rede de Computadores
+
+Faz parte do Sistema de Computação o Servidor, Rede, Software rodando no Servidor e o Software rodando o Cliente, com conjunto de elementos de hardware e software que juntos comportam um certo objetivo
+
+Um Sistema (de computação) que permite a execução de um Sistema(Programa)

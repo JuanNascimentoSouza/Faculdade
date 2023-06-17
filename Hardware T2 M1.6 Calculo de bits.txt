@@ -1,0 +1,26 @@
+
+A quantidade de endereços de memória a serem endereçados pelo barramento de endereços é obtida da seguinte forma: N = 2L
+
+Sendo:
+
+N = Quantidade de endereços.
+L = Largura (quantidade) de bits do BE ou de cada endereço.
+
+Temos:
+N = 4 Mega endereços (não estamos considerando o conteúdo de cada célula, apenas a quantidade de células existentes).
+
+Cálculo de L:
+A tabela a seguir expressa alguns prefixos usados para abreviar valores em computação, nos valores em potência de 2 e em potência de 10.
+
+Unidade	Valor em potência de 2	Valor unitário	Valor em potência de 10	Valor unitário
+1k (quilo)	210	1024		103	1.000
+1M (mega)	220	1.048.576	106	1.000.000
+1G (giga)	230	1.073.741.824	109	1.000.000.000
+1T (tera)	240	1.099.511.62    1012	1.000.000.000.000
+
+Desmembrando o valor 4 do prefixo M, podemos escrever o valor 4 da seguinte maneira: 22 = 4
+
+Podemos escrever o prefixo Mega (M) da seguinte maneira: 220 = Mega
+Juntando: 4 Mega endereços = 22 × 220
+Repetindo a base e somando os expoentes: 222
+Assim: 4 M = 222 = 22 bits

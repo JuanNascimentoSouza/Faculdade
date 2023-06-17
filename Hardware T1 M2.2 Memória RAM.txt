@@ -1,0 +1,9 @@
+
+A Mémoria RAM ou Memória Principal é onde são carregados os programas que serão operados no computador, além disso ela guarda os dados que serão usados no processamento
+
+A Memória Principal nos computadores funciona como se fossem pequenas caixas (célula) que contém 1 bit de informação cada uma (1 bit = 8 bits), essas células são acessadas por endereço
+não precisam ser acessadas de forma sequencial, assim são chamdas de processo aleatório (Random Acess Memory)
+
+A Memória RAM é volátil, sendo assim, tudo que for gravado na Memória RAM será perdido quando o computador for desligado, e por isso é usado uma segunda memória que pode ser o HD ou SSD para gravar informações no computador
+
+As principais caracteristicas da Memória RAM são sua capacidade de armazenamento por bit (4G = 4 milhões de bits) e sua taxa de transferência, ou seja, a velocidade que informação é transferida, por ex 1600 MHZ ou 1600 milhões de operações por segundo

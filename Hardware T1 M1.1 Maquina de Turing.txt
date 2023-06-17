@@ -1,0 +1,41 @@
+Final do século 19 inicio do 20 era o começo das máquinas elétricas e
+mecânicas
+
+1930 Alan Turing estudava como máquinas podiam resolver problemas
+
+Maquina de Turing precursos matemático do computador
+
+1 fita infinita dividida em células que pode ser lida e escrita
+
+2 um cabeçote capaz de ler ou escrever em uma célula da fita e capaz
+de ler ou escrever sobre a fita
+
+3 registrador que mantém o estado atual da máquina
+
+4 uma função que calcula a partir do estado atual do símbolo lido,
+qual o novo estado e se o cabeçote deve se mover ou escrever na
+fita
+
+Turing estudou o que vinha a se tornar algoritimos
+(conjunto finito de passos capaz de resolver um dado problema)
+
+Alan Turing, Matemático e criador da ciência da computação
+
+Turing foi chamado por inglêses para quebra das criptografias alemães
+na 2 guerra mundial
+
+O eixo usava uma máquina eletro eletrônica chamada enigma para cifrar
+suas mensagens
+
+Equipe de Turing criou uma máquina para decifrar as mensagens diarias
+essa máquina foi a base para o primeiro computador
+
+Claude Elwood Shannon trabalhava em um bell labs
+desenvolveu estudos para comunicação entre equipamentos apos o
+fim da guerra para guardar uma informação, o dígito binário (Bit)
+[Binary digit]
+0 = false, ou desligado
+1 = true, ou ligado
+
+Claude Elwood Shannon foi o criador da teoria da informação após
+a publicação deste artigo

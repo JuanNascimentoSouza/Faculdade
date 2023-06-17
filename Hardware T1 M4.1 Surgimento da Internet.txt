@@ -1,0 +1,23 @@
+A internet surgiu na década de 70 e os computadores eram da década de 60, o departamento de defesa americano resolveu conectar diversos computadores de centros acadêmicos nos Estados Unidos, essa primeira rede de computadores foi chamada de ARPA NET e é um embrião do que hoje é conhecido como internet, em 1970 foi a conexão entre a ARPA NET e seus primeiros centros acadêmicos e durante toda essa década diversas redes foram surgindo, quando essas redes de computadores se conectaram entre si surgiu a primeira rede de computadores, "a rede das redes" recebeu esse nome em 1986,
+desde então a internet vem crescendo e ganhando muita popularidade, hoje em dia não conseguimos viver sem o acesso a internet, 
+
+Mas o que fez a internet ter tamanho sucesso? A resposta são suas funcionalidades, a principal delas é a disponibilidade de páginas em servidores online conhecida como World Wide Web ou WWW, esse conjunto de páginas forma o que a maioria das pessoas entende por internet
+
+A internet também traz outras funcionalidades, como o mecanismo de busca, sendo o principal o Google, que catapultou essa empresa a um gigante mundial,além disso, a troca de emails substituiu o sistema de correios que usavamos com cartas, outra funcionalidade importante que surgiu quando as pessoas começaram a ficar conectadas durante grande parte do seu dia, foi a troca de mensagens instantâneas ou Chats, que surgiram inicialmente em Sites ou Programas e hoje em dia é amplamente usada no mobile como Whatsapp, Telegram, Discord, ect
+
+Assim a grande gama de funcionalidades e a conectividade entre pessoas de todo o mundo, é a razão do grande sucesso da internet que faz ela ser primordial para nossa vida
+
+Comunicação entre computadores
+Lançar meios de comunicação (como fios de cobre ou enlaces de rádio) entre os dois computadores.
+
+Protocolos de comunicação
+Criar protocolos para que ambos pudessem entender como falar entre si, pois eles precisam de um hardware para enviar e receber dados em rede.
+
+Internet discada
+Por uma questão de simplicidade, as empresas de telefonia assumiram o papel de prover conexão à internet para os usuários domésticos.
+Surgia, assim, o modem de internet discada, que se conectava como se estivéssemos fazendo um telefonema e atingia taxas de transmissão de 14400 bps (s por segundo).
+
+Endereço IP e roteador
+Uma das barreiras a serem vencidas para interligar tantas máquinas foi a forma de endereçamento, ou seja, como identificar unicamente um computador com o qual se deseja falar. A solução foi dar um endereço – como o da sua casa, por exemplo – para cada máquina. Trata-se de um processo denominado endereço IP, abreviação de Internet Protocol (ou Protocolo de Internet, em português).
+O endereço IP consistia em uma sequência de quatro números entre 0 a 255 (representados em 8 bits).
+Como exemplos de endereço IP, temos:

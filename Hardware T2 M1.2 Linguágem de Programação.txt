@@ -1,0 +1,19 @@
+
+O primeiro computador criado por cientistas foi criado para correção de tiros balísticos no século 40
+
+Esses especialistas programavam o computador tinham que ter a capacidade de reprojetar o computador
+
+Arquitetura de Von Neumann
+
+Von Neumann teve a ideia de ao invés de projetar o hardware para construír seu programa, formar o programa em um código binário e armazenar esse programa na memória do computador e esse computador vai executar a instrução e guardar o resultado
+
+As primeiras máquinas de Ven Neumann eram programadas em linguágem binária
+
+A linguágem de programação é uma linguágem proxima a humana(de alto nível) que pegam as expressões de alto nível e transformam essas expressões em linguágem de máquina que o computador vai processar e executar
+
+Define-se o algorítimo, traduz esse algorítimo em um programa com linguagem em alto nível (essa linguágem pode ser ou interpretada ou compilada),
+
+Linguagem interpretada: o interpretador pega os códigos em alto nível e transforma no tempo de execução na linguágem de máquina
+
+Linguagem compilada: todo código é analisado e traduzido para linguagem de maquina e o programa vira um programa em linguagem de maquina
+

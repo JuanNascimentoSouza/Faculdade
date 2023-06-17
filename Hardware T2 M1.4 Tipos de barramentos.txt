@@ -1,0 +1,28 @@
+
+Um hardware é composto por três módulos principais, Processador Memória e Dispositivos de Entrada e Saída esses componentes são ligados por fios internos chamados de Barramentos
+
+Barramentos podem transportar tanto Dados quanto Sinais de Controle, a soma dos fios de todos os barramentos é igual a quantidade de furos do Socket ou a quantidade de pinos do Processador, os Barramentos podem ser de três tipos, Controle, Endereços e Dados
+
+Barramento de Controle: quando existe algum tipo de programa ou aplicação no computador ele carrega temporariamente uma parte desse programa na memória principal para ser acessado pelo computador, quando o Processador busca na memória um dado ele faz uma operação de leitura(read), quando o processador termina de ler esse dado e guarda o dado na memória ele faz uma operação de gravação(write). O Barramento de Controle oferece um conjunto de sinais de controle para garantir que esses dados que trafegam entre Processador e Memória ocarram de maneira correta como por exemplo o Clock que garante a sincronicidade e a cadência dos dados e sinais que garantem que os dados irão no tempo correto e vão chegar da maneira correta
+
+Barramento de Endereço: esse é o barramento que conduz os bits necessários a encontrar uma determinada célula na memória, a memória em geral ela é composta por células e dentro das células encontram-se os dados, cada célula tem tamanho definido por exemplo uma célula tem o tamanho determinado de 8bits e 8 bits é igual a um bit
+
+  Valor de potência | Valor unitário
+1Kb = 2°10		  1024
+1Mb = 2°20		  1.048.576
+1Gb = 2°30		  1.073.741.824
+1Tb = 2°40 		  1.099.511.627.766
+
+memória com célula de 8 bits e 8 células 8X8 = 64
+
+Barramento de dados: é o barramentob em que o dado uma vez encontrado na memória vai ser transportado até chegar ao processador ou enviar do processador a memória, a taxa de transferência dos dados é dado pela velocidade do Barramento X a largura do Barramento, a largura é a quantidade de fios(a grosso modo) e a velocidade é a frequência de operação.
+
+Exemplo simples: uma velocidade de Barramento de 20Hz e largura de 2Bits 20 X 2 = 40 bits por segundo.
+
+Barramentos podem ser Internos ou Externos
+
+Barramentos Internos: são o conjunto de ligações que existem dentro do próprio processador.
+
+Barramentos Externos: são os que ligam o processador a memória por exemplo, e a dispositivos de entrada e saída como por exemplo a GP o PCI e o PCI Express
+
+Antigamente os Barramentos eram constituídos por Barramentos Paralelos ou seja enviavam bits cada um em um determinado fio e com o tempo os Barramentos passaram a ser do tipo Serial com vantagens por que os barramentos paralelos estavam mais sucetiveis a falhas porque deve existir uma sincronia no envio desses bits ao mesmo tempo, já o serial você envia bits ou grupos de bits um atras do outro, exemplos de barrações seriais é por exemplo QPI

@@ -1,0 +1,10 @@
+
+O computador é organizado em três módulos também chamados de subsistemas. 
+
+O primeiro módulo é o processador, o processador é projetado para realizar diretamente no hardware pequenas e simples operações, também chamado de operações primitivas.
+
+O segundo módulo é a memória que tem a função de armazenar e recuperar valores(leitura e escrita)
+
+O terceiro é o sistema de entrada e saída que tem a função de ligar o mundo exterior ao mundo interior(processador e a memória) 
+
+A comunicação entre esses subsistemas e o controle é realizada por sinais eletricos que percorrem alguns fios internos, esses fios são chamados em conjunto de barramento

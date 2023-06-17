@@ -1,0 +1,12 @@
+
+O ideal é que tivesse apenas uma memória no computador, com um tempo de acesso muito curto e também grande capacidade de armazenamento e que tivesse um armazenamento permaente ou seja não volátil além de um baixo custo. Porém ainda não temos essa memória, o que nós temos são tipos de memória que são empregados para objetivos diferentes, então podemos colocar essas memórias na chamada hierarquia de memórias na qual o topo da pirâmide são memórias que posusuem um custo alto em contra partida possuem alta velocidade mas geralmente tem uma baixa capacidade de armazenamento, já as memórias da base da pirâmide tem um custobaixo, velocidade baixa e capacidade alta
+
+Topo da Hierarquia
+
+	Registradores
+	
+	Memória Cache
+
+	Memória Principal
+
+	Memória Secundária

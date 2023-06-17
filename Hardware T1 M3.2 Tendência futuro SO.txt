@@ -1,0 +1,10 @@
+
+O Sistema Operacional é o principal software de sistema do computador, começou a ser desenvolvido na década de 60 junto com os computadores e inicialmente funcionava apenas como uma interface entre o hardware e os programas que nele eram executados
+
+Na década de 1970 surgiu um dos principais Sistemas Operacionais conhecidos, o Unix que é a base dos Sistemas Operacionais Linux que usamos hoje em dia, ele foi desenvolvido na academia americana e foram distribuídos por centros acadêmicos de todos os Estados Unidos, se tornando bastante populares
+
+Na década de 1980, a Miscrososft desenvolveu seu Sistema Operacional MS-DOS conhecido como DOS, esse sistema foi muito popular pois vinha com computadores pessoais da IBM, além disso a Microsft ainda na década de 80 desenvolveu o Microsoft Windows que seria ainda mais popular que o DOS, esse Sistema Operacional trazia a inovação de janelas que se projetavam sobre uma área de trabalho, podiam ser movidas, aumentadas, diminuídas e operadas com cliques de mouse, Windows chegou a ocupar 90% no mercado de Sistemas Operacionais
+
+Na mesma década a concorrente da Microsoft, a Apple surgia com seu Sistema Operacional, que trazia o conseito de icones representando programas e também a interface gráfica em janelas, e até houve uma disputa nos tribunais entre as duas por essas patentes
+
+No século 20 o desenvolvimento de Sistemas Operacionais progrediu para Sistemas Operacionais embarcados, o que usamos hoje em celulares e tablets, essa disputa teve basicamente três competidores, a Apple com seu sistema próprio IOS apenas para produtos da Apple, a Google com seu sistema Android que é usado em diversos celulares de diversas marcas, e a própria Microsoft que tentou desenvolver o Windows mobile mas acabou desistindo da corrida e sedendo espaço para as outras, duas hoje em dia temos basicamente aparelhos que operam em IOS ou Android

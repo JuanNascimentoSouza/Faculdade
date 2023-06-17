@@ -1,0 +1,5 @@
+
+No inicio da internet as conexões discadas chegavam a taxa de transmissão de alguns kilobits por segundo com o desenvolvimento da tecnologia e transmissão de dados como a fibras óticas o acesso a internet passou a se dar de formas muito mais rapidas em taxas de megabits por segundo e passou a se chamar Banda Larga com esse acesso em muitas casas novas aplicações puderam ser desenvolvidas para os computadores, entre elas podemos citar o streaming de vídeo que vem lentamente substituindo a televisão, para o celular um movimento similar aconteceu com essa tecnologia de transmissão, com 3g e 4g passamos a ter acesso a banda larga nos celulares, além disso, os celulares estão sempre com os usuários e tem um posicionamento atraves de GPS e identificação por Wi-fi, dessa forma novos tipos de aplicação poderão ser desenvolvidas, principalmente as corporativas, por exemplo o Waze que nos faz evitar o trafego em grandes cidades ou Uber que nos permite chamar um carro por aplicativo
+
+
+Hoje em dia os desenvolvedores já criam seus aplicativos considerando a alta conectividade dos usuário por cada vez mais periodos de tempo em redes de banda larga

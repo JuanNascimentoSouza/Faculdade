@@ -1,0 +1,29 @@
+
+A teoria do computador criado por Alan Turing foi criada na primeira
+metade do século
+
+Na segunda guerra mundial os Estados Unidos desenvolveram o primeiro
+computador chamado de ENIAC que ocupava uma sala de 30m2 e pesava por
+volta de 30 toneladas, esse computador era feito com válvulas 
+termiônicas essas valvulas as vezes faziam uma porta lógica,
+gastavam muita energina, queimavam com frequência, e ocupavam muito
+espaço
+
+Para resolver esse problema surgiram a segunda geração de computadores
+chamados Transistor
+
+Transistor é um pequeno circuito eletrônico chamado de circuitos integrados de apenas alguns milímetros
+que faz as vezes a porta lógica substituíndo a termiônica,
+assim foram feitos computadores menores que gastavam menos energia
+
+A terceira geração chega quando desenvolvemos o circuito impresso,
+uma pequna pastília de cilício, que contém dentro uma grande quantidade
+de portas lógicas
+
+com isso podiam se criar computadores ainda menores que podiam ser
+compactados dentro de residências, os chamados computadores pessoais
+que surgiram no final da década de 70 e início da década de 80
+
+A quarta geração chega com desenvolvimento de micro processadores
+miniaturizando ainda mais o computador, podendo ser usado em vários
+dispositivos de hoje em dia como a televisão, celular, aviões, carros

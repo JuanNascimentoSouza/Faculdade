@@ -1,0 +1,24 @@
+O processador e considerado o cérebro do computador, também pode ser
+chamado de CPU (Center Processor Unity)
+
+O processador é responsável por executar todas as intruções no
+computador, pra isso seu principal elemento são suas unidades lógicas
+e aritiméticas que realizam operações matemáticas dentro do computador
+
+O processador também depende de um pulso periódico chamado Clock
+esse pulso dita a velocidade com qual as operações são carregadas e
+executadas dentro do processador
+
+Um termo bastante conhecido é o Overclocking que seria aumentar a
+velocidade de clock para um valor superior, já que aumenta o pulso que
+o processador produz
+
+Além disso o clock por um tempo foi considerado a capacidade do
+computador, depois de um tempo as interações físicas dentro do circuito
+integrado não permitiram mais o aumento do clock, então as indústrias
+começaram um novo processo, de colocar diversos núcleos de processamento
+dentro de um único núcleo integrado, isso foi chamado de Multicore onde
+podemos ter o Dualcore que são dois núcleos de processamento no
+Processador e Quadcore que são quatro núcleos no Processador
+
+A memória Cache funciona como um pequeno espaço de memória dentro do circuito integrado do computador, ela é muitas vezes mais rápida que o acesso de escrita e leitura da memória principal, dessa forma se ganha em performace

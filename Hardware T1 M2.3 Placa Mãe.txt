@@ -1,0 +1,12 @@
+A Placa Mãe é um Circuito Eletrônico Impresso onde são encaixados o Processador, Memória principal e diversos periféricos, por isso o nome "mãe"
+
+A função principal da Placa Mãe é conectar o Processador a Memória principal e seus periféricos
+
+Além disso a Placa Mãe serve para levar energina aos componentes conectados como Processador, Memória RAM e periféricos
+
+Com a miniaturização dos componentes as Placas Mãe foram evoluíndo e muitos dos componentes que eram encaixados passaram a ser integrados na placa, a isso chamamos de "onboarding"
+
+com essa tecnologia podem ser criadas Placas Mãe cada vez mais complexas, que nos leva aos dias de hoje com laptops com sua maior parte sendo placa mãe com componentes integrados ou celulares que são verdadeiras Placas Mãe complexas, com acelerômetro, GPS , Placa de Rede, Placa Celular e diversas outras funcionalidades
+
+Atenção!
+As placas-mãe dos celulares atuais são circuitos altamente complexos, contando com processador, memória, controladora de vídeo, controladora de tela touchscreen, acelerômetros, GPS e placa de rede sem fio e celular. Todos eles estão diretamente integrados à sua placa-mãe.
