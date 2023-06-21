@@ -1,0 +1,14 @@
+
+Periféricos são dispositivos que conectam o mundo externo ao interno, periféricos são compostos pelo próprio dispositivo e pela interface, um dos papeis da interface é garantir a compatibilidade dos sinais gerados no mundo exterior para um mundo interior. Como por exemplo o mouse que gera sinais através de um sensor óptico e esses sinais são lidos outro papel da interface são os sinais captados.
+
+Também é papel da interface garantir que erros e interferências sejam minimizados.
+
+Nos primeiros sistemas computacionais quem garantia o funcionamento dos periféricos era o Processador  e isso sobrecarregava a CPU por precisar cuidar dos proprios processamentos e ainda cuidar das próprias tarefas e os funcionamento dos próprios periféricos usando uma técnica chamada Instrução de Entrada e Saída
+
+Existe a Instrução de Entrada e Saída por programa na qual o processador permanece ocupado até o termino da tranferencia dos dados
+
+ Instrução de Entrada e Saída por interrupção na qual o processador fica livre para fazer as suas tarefas, é uma tecnica boa mas o processador as vezes ainda precisa interferir quando se trata de transferência de dados exceto no inicio e no final da transferência
+
+O Driver tem um conjunto de funções e rotinas para que o periférico funcione de forma correta conforme esperado, a comunicação entre periféricos e sistema pode ser feita de forma paralela ou serial.
+
+Caso queira transmitir em comunicação paralela em grupos de 10 bits terá 10 fios ou 10 vias de transmissão a qual cada um vai ocupar uma via para dentro do sistema, a transmissão paralela foi muito usada no passado quando existiam limitações de velocidade nas vias de transmissão e qualquer variação nas vias implicaria em erro

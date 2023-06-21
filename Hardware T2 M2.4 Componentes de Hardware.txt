@@ -1,0 +1,12 @@
+
+Processador: processa dados
+
+Memória principal: armazena os dados eletrônicamente
+Memória secundária: um pouco mais lenta que a principal mas não se perde após o computador desligar
+
+além desses temos: teclado, mouse, placa de vídeo
+
+Qual a importância de conhecer esses componentes?
+Adequação do que está sendo comprado para o problema que vai resolver
+
+O conhecimento dos componentes de hardware vai permitir a escolha correta para que seja melhor resolvido

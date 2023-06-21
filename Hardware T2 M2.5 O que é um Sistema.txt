@@ -1,0 +1,14 @@
+
+Um sistema é um conjunto de partes que trabalha sincronizado em pro de um objetivo
+
+Um sistema de computação é o conjunto de elementos que contem o hardware e o software e a rede de computadores os componentes que disponibilizam a computação desejada
+
+Em uma arquitetura de servidor temos
+
+O Servidor
+
+A Rede
+
+O Software rodando no Servidor
+
+E o Software rodando no Cliente
