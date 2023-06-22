@@ -1,0 +1,12 @@
+
+Tipos de Sistemas Operacionais -> Sistemas Monoprogramáveis/Monotarefa - Sistemas Multiprogramáveis/Multitarefa - Sistemas com Múltiplos Processadores
+
+Sistemas Multiprogramáveis/Multitarefa -> Sistemas Batch - Sistemas de Tempo Compartilhado - Sistemas de Tempo Real
+
+Sistemas Monoprogramáveis: Processadores, Memória, Periféricos que são dedicados a execução de somente um programa, um Sistemas Operacional Monoprogramável é o MSDOS
+
+Sistamas Multitarefas: Recursos computacionais compartilhados entre diversos usuários e aplicações como Windows, Linux, MacOS. Podem ser classificados em Sistemas de Processamento em Lote que são sistemas que processam tarefas sem a presença interativa do usuário como sistemas de processamento de boletos, relatórios, ect
+
+Sistemas de tempo compartilhado: tem multiplos usuários remotos que utilziam ao mesmo tempo o computador como a realização de consultas a banco de dados.
+
+Sistemas com multiplos processadores: os mais atuais

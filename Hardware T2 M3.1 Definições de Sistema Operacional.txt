@@ -1,0 +1,12 @@
+
+Podemos separar o computador em camadas para compreender e facilitar não só a implementação como a compreenção
+
+As duas camadas básicas que precisamos separar é o hardware e o software, o usuário reage diretamente com o sistema operacional como se não existisse hardware, podemos dizer que a visão do usuário é modular e abstrata, o Sistema Operacional ele abtrai o hardware e fornece uma visão específica do que esta acontecendo na máquina, fazendo uma descrição das camadas básicas do computador temos.
+
+Hardware: com Processador, Memória e dispositivos de entrada e saída.
+
+Software: com Sistema Operacional que controla o hardware e a execução dos programas
+
+Aplicativos: definem formas de como usar os recursos computacionais como banco de dados, compiladores, jogos etc
+
+Usuários: Pessoas e outros computadores ou dispositivos
