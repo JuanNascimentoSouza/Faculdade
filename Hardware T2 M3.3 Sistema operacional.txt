@@ -1,0 +1,12 @@
+Sistema Operacional é um conjunto de rotinas como um programa de computador, mas ele possui de rotinas especiais para controlar o hardware.
+O Hardware em si tem pouca utilidade para o usuário, complexo de usar e feito por placas eletrônicas e fios. Então existe esse componente do sistema,
+então existe o SIstema Operacional com a finalidade de tornar o uso do computador mais fácil e conveniênte para o usuário que usa as aplicações do
+usuário.
+
+Hardware -> Sistema Operacional -> Aplicações de usuário -> Usuário
+
+O Sistema Operacional possui núcleo ou Kernel que é responsável por controlar todos os componentes do hardware, ele também controla todos os
+dispositivos conectados a ele e aloca cada componente do sistema na hora correta de maneira conveniente para que tudo funcione da melhor maneira
+
+O Sistema Operacional pode ser dividido em Sistemas Monoprogramaveis, Monotarefas (como MSDOS), Multitarefas (várias aplicações como Windows), Multiprocessadores( fortemente acoplados ou fracamente acoplados como Clusters), aplicações em tempo real
+
