@@ -1,0 +1,1 @@
+O conjunto de bits formam caracteres, palavras, registros e bancos de dados. A partir dos bits podemos astrair componentes do computador e associa a isso sugnificado que faz sentido para nós humanos

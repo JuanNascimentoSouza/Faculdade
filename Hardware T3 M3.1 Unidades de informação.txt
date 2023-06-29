@@ -1,0 +1,5 @@
+A unidade fundamental do sistema do computador é o bit, que é representado por um sistema binário(0 e 1) e o agrupamento desses bits ira representar
+uma determinada informação. Outra unidade de informação é o byte, que é o agrupamento de 8 bits.
+
+Se 8 bits = 1 byte
+   512 bits = 64 bytes 
