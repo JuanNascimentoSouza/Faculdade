@@ -1,0 +1,5 @@
+Converter da base 10 para a base 7
+
+	59/7   8/7   1/7   = 113
+	 3/8   1/1   1/0
+	       <--

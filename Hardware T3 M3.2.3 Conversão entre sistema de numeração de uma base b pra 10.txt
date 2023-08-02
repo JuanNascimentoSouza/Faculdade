@@ -1,0 +1,8 @@
+O processo de conversão implica em converter um número de uma base e converter a outra utilizando a base 10 como intermediária
+
+Ex: converter 214 da base 5 para o valor equivalente na base 7
+				                2       1       0
+converter da base 5 para a base 10: 214  = 2 * 5 + 1 * 5 + 4 * 5
+                                       5
+2 * 25 + 1 * 5 + 4 * 1 = 59
+			   10

@@ -1,0 +1,11 @@
+Sistemas de numeração são importantes para quando estudarmos a base binaria veremos como fazer operações nessa base
+que é a base numerica utilizada nos sistemas de informação
+
+Sistema posicional: Cada algarismo tem um valor relativo (diferente) conforme sua posição no número
+	Exemplo: 444 -> 4, 40, 400
+
+Base: quantidade de simbolos de um sistema posicional; o número da base indica o total de símbolos dela.
+	* base 10 decimal - 1 a 10
+	* base 2 binário - 0 e 1
+	* base 8 octal - 0 a 7
+	* base 16 hexadeximal - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
