@@ -1,0 +1,10 @@
+George Boole, Claude Shannon (criador da análise booleana)
+Ambos desenvolveram a matemática booleana
+
+Expressões Booleanas
+
+AND * AND
+
+OU + OU
+
+NOT A

@@ -1,0 +1,1 @@
+representações de dados em caractere são feitos através da tabela ASCII
